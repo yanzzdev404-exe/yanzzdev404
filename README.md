@@ -2,6 +2,10 @@
 
 "Curious mind • Code • Cybersecurity • Technology"
 
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2037357792052496408/1B451160B19C8415BCE5C344CA6E3A3B2376C85B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="520" alt="Akamiya Chizui banner"/>
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Exploring+code+and+technology;Learning+something+new+every+day;Building+things+just+because+I+can;Student+%7C+Developer+%7C+Tech+Enthusiast" alt="Typing SVG"/><br><a href="https://github.com/yanzzdev404-exe">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
